@@ -1,0 +1,27 @@
+# секреты
+config.py
+.env
+
+# материалы курса и личные заметки, не публикуются
+course-materials/
+git-commits.md
+
+# файлы, которые создаёт бот
+data/
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# виртуальное окружение
+.venv/
+venv/
+
+# настройки редакторов и системы
+.idea/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
